@@ -3,9 +3,11 @@
 
 # In[1]:
 
-
+#Имя
 Name=str(input("First name:")) 
+#Фамилия
 Surname= str(input("Last name:"))
+#Возраст
 Age=int(input("Age:"))
 if(Age<=11):
  print("Children")
